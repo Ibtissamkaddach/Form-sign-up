@@ -19,4 +19,12 @@ Make sure you have a modern web browser installed.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ibtissamkaddach/Form-sign-up.git
+2. Navigate to the directory:
+   ```bash
+   cd Form-sign-up
+3. Usage
+Open index.html in a web browser.
+Fill out the form fields.
+Click the "Sign Up" button.
+A thank you message will be displayed below the form.
 
